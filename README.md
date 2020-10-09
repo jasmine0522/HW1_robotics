@@ -1,4 +1,10 @@
 # HW1_robotics
 This is homework for robotics
 
-TA helps me ! OAO
+題目:
+
+鍵盤控制，請搜尋鍵盤對應的ASCII code，做出鍵盤控制turtlesim的功能
+
+成果：
+
+
